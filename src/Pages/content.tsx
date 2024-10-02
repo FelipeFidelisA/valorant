@@ -26,6 +26,11 @@ const Content: React.FC = () => {
                     </div>
                 </header>
             </div>
+            
+            <div className='personagens'>
+                <h1>AGENTES</h1>
+                Lista de personagens
+            </div>
         </div>
     )
 }
